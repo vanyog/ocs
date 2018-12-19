@@ -674,7 +674,7 @@ Active is how many reviews are currently being considered or underway.]]></messa
 	<message key="about.aboutThisPublishingSystem.altText">OCS Submission, Review, and Publishing Process</message>
 	<message key="about.currentConferences">Current Conferences</message>
 	<message key="about.aboutOCSConference"><![CDATA[This conference uses Open Conference Systems {$ocsVersion}, which is open source conference management software developed, supported, and freely distributed by the <a href="http://pkp.sfu.ca/">Public Knowledge Project</a> under the GNU General Public License.]]></message>
-	<message key="about.aboutOCSSite"><![CDATA[This site uses Open Conference Systems {$ocsVersion}, which is open source conference management software developed, supported, and freely distributed by the <a href="http://pkp.sfu.ca/">Public Knowledge Project</a> under the GNU General Public License.]]></message>
+	<message key="about.aboutOCSSite"><![CDATA[Този сайт използва Отворената система за конференции OCS {$ocsVersion}, която е система за управление на конференции с отворен код, развивана, поддържана и разпространявана безплатно от <a href="http://pkp.sfu.ca/">Public Knowledge Project</a> съгласно GNU General Public License.]]></message>
 
 	<!-- Announcement -->
 
@@ -683,13 +683,13 @@ Active is how many reviews are currently being considered or underway.]]></messa
 	<message key="help.ocsHelpAbbrev">OCS Help</message>
 
 	<!-- Installer -->
-	<message key="installer.ocsInstallation">OCS Installation</message>
-	<message key="installer.ocsUpgrade">OCS Upgrade</message>
-	<message key="installer.installationInstructions"><![CDATA[<h4>OCS Version {$version}</h4>
+	<message key="installer.ocsInstallation">Инсталиране на OCS</message>
+	<message key="installer.ocsUpgrade">Надграждане на OCS</message>
+	<message key="installer.installationInstructions"><![CDATA[<h4>OCS версия {$version}</h4>
 
-<p>Thank you for downloading the Public Knowledge Project's <strong>Open Conference Systems</strong>. Before proceeding, please read the <a href="{$baseUrl}/docs/README">README</a> file included with this software. For more information about the Public Knowledge Project and its software projects, please visit the <a href="http://pkp.sfu.ca/" target="_blank">PKP web site</a>. If you have bug reports or technical support inquiries about Open Conference Systems, see the <a href="http://pkp.sfu.ca/support/forum" target="_blank">support forum</a> or visit PKP's online <a href="http://pkp.sfu.ca/bugzilla/" target="_blank">bug reporting system</a>. Although the support forum is the preferred method of contact, you can also email the team at <a href="mailto:pkp.contact@gmail.com">pkp.contact@gmail.com</a>.</p>
+<p>Благодарим Ви, че изтеглихте <strong>Open Conference Systems</strong> на Public Knowledge Project. Преди да продължите, моля, прочетете файла <a href="{$baseUrl}/docs/README">README</a> придружаващ този софтуер. За повече информация за Public Knowledge Project и техните софтуерни проекти, моля посетете <a href="http://pkp.sfu.ca/" target="_blank">сайта на PKP</a>. Ако имате сигнал за софтуерна грешка или искане за техническа помощ относно Отворената система за конференции, вижте <a href="http://pkp.sfu.ca/support/forum" target="_blank">форума за помощ</a> или посетете онлайн <a href="http://pkp.sfu.ca/bugzilla/" target="_blank">системата за съобщаване на грешки</a>. Въпреки, че форумът за помощ е предпочитания метод за контакт, можете да се свържете с екипа и по имейл <a href="mailto:pkp.contact@gmail.com">pkp.contact@gmail.com</a>.</p>
 
-<h4>Upgrade</h4>
+<h4>Надграждане</h4>
 
 <p>If you are upgrading an existing installation of OCS 2.x, <a href="{$upgradeUrl}">click here</a> to proceed.</p>
 
@@ -740,9 +740,9 @@ Your server currently supports mbstring: <strong>{$supportsMBString}</strong>]]>
 	<message key="installer.reinstallAfterDatabaseError"><![CDATA[<strong>Warning:</strong> If installation failed part way through database installation you may need to drop your OCS database or database tables before attempting to reinstall the database.]]></message>
 	<message key="installer.overwriteConfigFileInstructions"><![CDATA[<h4>IMPORTANT!</h4>
 <p>The installer could not automatically overwrite the configuration file. Before attempting to use the system, please open <tt>config.inc.php</tt> in a suitable text editor and replace its contents with the contents of the text field below.</p>]]></message>
-	<message key="installer.installationComplete"><![CDATA[<p>Installation of OCS has completed successfully.</p>
-<p>To begin, <a href="{$createUrl}" class="action">create a conference</a>. You'll be asked to login with the username and password entered on the previous page.</p>
-<p>If you wish to receive news and updates, <strong>please register at <a href="http://pkp.sfu.ca/ocs/register" target="_new">http://pkp.sfu.ca/node/add/pkp-site-submission</a>.</strong> If you have questions or comments, please visit the <a href="http://pkp.sfu.ca/support/forum" target="_new">support forum</a>.</p>]]></message>
+        <message key="installer.installationComplete"><![CDATA[<p>Инсталирането на OCS завърши успешно.</p>
+<p>За да започнете, <a href="{$createUrl}" class="action">създайте конференция</a>. Ще бъдете помолени да влезете с потребителското име и паролата, въведени на предишната страница.</p>
+<p>Ако желаете да получавате новини и подобрения, <strong>моля регистрирайте се в <a href="http://pkp.sfu.ca/ocs/register" target="_new">http://pkp.sfu.ca/node/add/pkp-site-submission</a>.</strong> Ако имате въпроси или коментари, моля, посетете <a href="http://pkp.sfu.ca/support/forum" target="_new">форума за помощ</a>.</p>]]></message>
 	<message key="installer.upgradeComplete"><![CDATA[<p>Upgrade of OCS to version {$version} has completed successfully.</p>
 <p>Don't forget to set the "installed" setting in your config.inc.php configuration file back to <em>On</em>.</p>
 <p>If you haven't already registered and wish to receive news and updates, <strong>please register at <a href="http://pkp.sfu.ca/ocs/register" target="_new">http://pkp.sfu.ca/ocs/register</a>.</strong> If you have questions or comments, please visit the <a href="http://pkp.sfu.ca/support/forum" target="_new">support forum</a>.</p>]]></message>
