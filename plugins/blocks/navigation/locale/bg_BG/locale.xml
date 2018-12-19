@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * locale.xml
+  *
+  * Copyright (c) 2000-2012 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings for the en_US (U.S. English) locale.
+  *
+  * $Id$
+  -->
+ 
+<locale name="bg_BG" full_name="Български">
+	<message key="plugins.block.navigation.displayName">Блок Навигация</message>
+	<message key="plugins.block.navigation.description">Тази добавка осигурява странична лента с хипервръзки за навигация.</message>
+	<message key="plugins.block.navigation.conferenceContent">Съдържание на конференция</message>
+</locale>
