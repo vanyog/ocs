@@ -554,7 +554,7 @@ Active is how many reviews are currently being considered or underway.]]></messa
 
 	<!-- Login -->
 	<message key="user.login.createAccount">Ако не сте потребител - Създаване на профил в този сайт</message>
-	<message key="user.login.resetPasswordInstructions"><![CDATA[От съображения за сигурност тази система изпраща по имейл нови пароли вместо да припомня старите пароли на потребителите.<br /><br />Въведете своя имейл адрес за да получите нова парола. На този адрес ще бъде изпратено потвърждание.]]></message>
+	<message key="user.login.resetPasswordInstructions"><![CDATA[От съображения за сигурност тази система изпраща по имейл нови пароли вместо да припомня старите пароли на потребителите.<br /><br />Въведете своя имейл адрес, за да получите нова парола. На този адрес ще бъде изпратено потвърждание.]]></message>
 
 	<!-- Registration -->
 	<message key="user.account.repeatPassword">Repeat password</message>
