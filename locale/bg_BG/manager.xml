@@ -22,7 +22,7 @@
 	<message key="manager.announcements.form.schedConfId">Scheduled Conference</message>
 	<message key="manager.announcements.schedConf">Scheduled Conference</message>
 	<message key="manager.conferenceEventLog">Event Log</message>
-	<message key="manager.conferenceSiteManagement">Conference Site Management</message>
+        <message key="manager.conferenceSiteManagement">Управяване сайт на конференция</message>
 	<message key="manager.currentConferences">Current Conferences</message>
 	<message key="manager.emails.confirmResetAll">Are you sure you want to reset all email templates in this conference? You will lose any customizations you have made.</message>
 	<message key="manager.files.note">Note: The Files Browser is an advanced feature that allows the files and directories associated with a conference to be viewed and manipulated directly.</message>
@@ -40,7 +40,7 @@
 	<message key="manager.languages.languageInstructions"><![CDATA[OCS can be made available to users in any of several supported languages. As well, OCS can operate as a partially multilingual system, providing users with an ability to toggle between languages on each page, and allowing certain data to be entered in several additional languages.<br /><br/>If a language supported by OCS is not listed below, ask your site administrator to install the language from the site administration interface. For instructions on adding support for new languages, please consult the OCS documentation.]]></message>
 	<message key="manager.languages.noneAvailable">Sorry, no additional languages are available. Contact your site administrator if you wish to use additional languages with this conference.</message>
 	<message key="manager.languages.primaryLocaleInstructions">This will be the default language for the conference site.</message>
-	<message key="manager.managementPages">General Management</message>
+        <message key="manager.managementPages">Главен мениджмънт</message>
 	<message key="manager.managementPages.description"><![CDATA[<ol><li>Begin with Website Management to set up the conference website.</li><li>Use Scheduled Conferences to establish a scheduled instance of the conference.</li><li>Go to scheduled conference's Setup to post Call for Papers, Registration, etc. and use its Timeline to set dates for postings, submissions, etc.</li></ol>]]></message>
 	<message key="manager.scheduler.timeBlock.form.nameRequired">A time block name is required.</message>
 	<message key="manager.scheduler.timeBlock.noneCreated">No time blocks have been created.</message>
@@ -535,7 +535,7 @@
 	<message key="manager.setup.additionalContent.title">Step 2. Additional Website Content</message>
 	<message key="manager.setup.conferenceSetupUpdated">Your conference setup has been updated.</message>
 	<message key="manager.setup.conferenceStyleSheetInvalid">Invalid conference stylesheet format or upload failed. Accepted format is .css.</message>
-	<message key="manager.setup.conferenceTitle">Conference Title</message>
+        <message key="manager.setup.conferenceTitle">Название на конференцията</message>
 	<message key="manager.setup.finalSchedConfStepSavedNotes"><![CDATA[<p>A scheduled conference has now been set up. Continue to Conference Management by <a href="{$conferenceManagementUrl}">clicking here</a>.</p>]]></message>
 	<message key="manager.setup.indexing">Conference Indexing</message>
 	<message key="manager.setup.indexing.brief">Indexing</message>
@@ -557,7 +557,7 @@
 	<message key="manager.setup.layout.conferencePageFooterDescription">This is the footer of your conference. To change or update the footer, paste the HTML code in the textbox below. Examples could be another navigation bar, a counter, etc. This footer will appear on every page.</message>
 	<message key="manager.setup.layout.conferencePageHeader">Website Header</message>
 	<message key="manager.setup.layout.conferencePageHeader.description">A graphic version of the conference's title and logo (.gif, .jpg, or .png file), possibly a smaller version of the one used on the homepage</message>
-	<message key="manager.setup.layout.conferenceTitle">Conference Title</message>
+        <message key="manager.setup.layout.conferenceTitle">Название на конференцията</message>
 	<message key="manager.setup.layout.description">Titles and logos, headers, footers, etc.</message>
 	<message key="manager.setup.layout.favicon">Conference Favicon</message>
 	<message key="manager.setup.layout.faviconDescription">Add a favicon for this conference to display alongside the navigation bar when users are visiting your site.</message>
@@ -689,6 +689,6 @@
 	<message key="manager.tracks.unassigned">Available Track Directors</message>
 	<message key="manager.tracks.wordCount">Word Count</message>
 	<message key="manager.tracks.wordCountInstructions">Limit abstract word counts for this section (0 for no limit): </message>
-	<message key="manager.websiteManagement">Website Management</message>
+        <message key="manager.websiteManagement">Управляване на сайт</message>
 
 </locale>

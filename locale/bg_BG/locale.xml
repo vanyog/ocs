@@ -103,7 +103,7 @@
 	<message key="common.days">days</message>
 	<message key="common.timeZone">Time Zone</message>
 	<message key="common.ellipsis">...</message>
-	<message key="common.path">Path</message>
+        <message key="common.path">Път</message>
 	<message key="common.dateTimeSeparator">at</message>
 	<message key="common.ccLicense"><![CDATA[
 		<a target="_new" rel="license" href="http://creativecommons.org/licenses/by/3.0/">
