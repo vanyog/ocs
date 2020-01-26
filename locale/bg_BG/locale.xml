@@ -171,7 +171,7 @@
 	<message key="paper.suppFilesAbbrev">Supp. files</message>
 	<message key="paper.discipline">Academic discipline and sub-disciplines</message>
 	<message key="paper.subjectClassification">Subject classification</message>
-	<message key="paper.subject">Keywords</message>
+        <message key="paper.subject">Ключови думи</message>
 	<message key="paper.coverage">Покритие</message>
 	<message key="paper.coverageGeo">Geo-spatial coverage</message>
 	<message key="paper.coverageChron">Chronological or historical coverage</message>
@@ -316,7 +316,7 @@
 	<message key="user.noRoles.registerUnavailable">Register to attend the conference: Registration is not currently accepted.</message>
 
 	<!-- Roles -->
-	<message key="user.role.manager">Conference Manager</message>
+        <message key="user.role.manager">Управляване на конференция</message>
 	<message key="user.role.director">Director</message>
 	<message key="user.role.trackDirector">Track Director</message>
 	<message key="user.role.author">Author</message>
@@ -567,7 +567,7 @@ Active is how many reviews are currently being considered or underway.]]></messa
 	<message key="user.account.selectSchedConf">Select a scheduled conference to create an account with</message>
 	<message key="user.account.noSchedConfs">There are no scheduled conferences you may create an account with on this site.</message>
 	<message key="user.account.createAs">Create account as</message>
-	<message key="user.account.privacyStatement">Privacy Statement</message>
+        <message key="user.account.privacyStatement">Политика за поверителност</message>
 	<message key="user.account.completeForm">Fill in this form to create an account with this conference.</message>
 	<message key="user.account.hasAccount"><![CDATA[<a href="{$accountUrl}">Click here</a> if you already have an account with this or another conference on this site.]]></message>
 	<message key="user.account.hasNoAccount"><![CDATA[<a href="{$accountUrl}">Click here</a> if you do <strong>not</strong> already have an account with this or another conference on this site.]]></message>
@@ -659,10 +659,10 @@ Active is how many reviews are currently being considered or underway.]]></messa
 	<message key="about.authorGuidelines">Author Guidelines</message>
 	<message key="about.submissionPreparationChecklist">Submission Preparation Checklist</message>
 	<message key="about.copyrightNotice">Copyright Notice</message>
-	<message key="about.privacyStatement">Privacy Statement</message>
+        <message key="about.privacyStatement">Дакларация за поверителност</message>
 	<message key="about.peerReviewProcess">Peer Review Process</message>
 	<message key="about.openAccessPolicy">Open Access Policy</message>
-	<message key="about.archiveAccessPolicy">Archive Access Policy</message>
+        <message key="about.archiveAccessPolicy">Политика за достъп до архиви</message>
 	<message key="about.delayedOpenAccess">Delayed Open Access</message>
 	<message key="about.delayedOpenAccessDescription">The contents of this conference will be available in an open access format {$delayedOpenAccessDuration} month(s) after the scheduled conference is released to participants.</message>
 	<message key="about.authorSelfArchive">Author Self-Archiving</message>
@@ -679,7 +679,7 @@ Active is how many reviews are currently being considered or underway.]]></messa
 	<!-- Announcement -->
 
 	<!-- Help -->
-	<message key="help.ocsHelp">Open Conference Systems Help</message>
+        <message key="help.ocsHelp">Помощ за Отворена система за конференции</message>
 	<message key="help.ocsHelpAbbrev">OCS Help</message>
 
 	<!-- Installer -->
