@@ -160,14 +160,14 @@ An initial review of "{$paperTitle}" has made it clear that this submission does
 		<subject>Director Assignment</subject>
 		<body>{$editorialContactName}:
 
-The submission, "{$paperTitle}," to {$conferenceName} has been assigned to you to see through the editorial process in your role as Track Director.  
+Предложената работа "{$paperTitle}," за {$conferenceName} е определена на Вас да наблюдавате изтателския процес в ролята на Track директор.
 
-Submission URL: {$submissionUrl}
-Username: {$directorUsername}
+URL на публикацията: {$submissionUrl}
+Потребителско име: {$directorUsername}
 
-Thank you,
+Багодаря,
 {$editorialContactSignature}</body>
-		<description>This email notifies a Track Director that the Director has assigned them the task of overseeing a submission through the editing process. It provides information about the submission and how to access the conference site.</description>
+                <description>Този имейл уведомява Track директора, че директорът му е възложил задача да преглежда предложени публикации в издателския процес. Той дава инфурмация за предложението и как се стига до сайта.</description>
 	</email_text>
 	<email_text key="REVIEW_REQUEST">
 		<subject>Paper Review Request</subject>

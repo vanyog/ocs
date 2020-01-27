@@ -29,58 +29,58 @@
 	<!-- review forms start -->
 
 	<!-- common -->
-	<message key="common.copy">Copy</message>
+        <message key="common.copy">Копиране</message>
 	<message key="common.preview">Preview</message>
 	<message key="common.activate">Activate</message>
 	<message key="common.deactivate">Deactivate</message>
 
 	<!-- Conference Management -->
-	<message key="manager.reviewForms">Review Forms</message>
+        <message key="manager.reviewForms">Формуляри за рецензиране</message>
 
-	<message key="manager.reviewForms.list.description">The peer review forms created here will be presented to reviewers to complete, instead of the default form which consists of two open text boxes, the first "for author and editor," and the second "for editor." Review forms can be designated for a specific conference track, and editors will have the option to choose which form to use in assigning the review. In all cases, editors will have the option of including the reviews in corresponding with the author.</message>
+        <message key="manager.reviewForms.list.description">Формулярите за рецензиране, направени тук ще се предлагат на рецензентите за попълване, вместо формуляра по подразбиране, който съдържа само две полета за попълване на текст: "За автора и редактора" и "За редактора". Форбулярите за рецензиране могат да съставят за специфичния ход на конференцията и редакторите имат възможност да избират коя форма да използват при искане на рецензия. При всички случаи редакторите могат да включват рецензиите в кореспонденцията с авторите.</message>
 	<message key="manager.reviewForms.noneChosen">None / Free Form Review</message>
-	<message key="manager.reviewForms.noneCreated">No review forms have been created.</message>
-	<message key="manager.reviewForms.create">Create Review Form</message>
-	<message key="manager.reviewForms.edit">Review Form</message>
+        <message key="manager.reviewForms.noneCreated">Няма създадени формуляри за рецензиране.</message>
+        <message key="manager.reviewForms.create">Създаване формуляр за рецензиране</message>
+        <message key="manager.reviewForms.edit">Формуляр за рецензиране</message>
 	<message key="manager.reviewForms.title">Заглавие</message>
-	<message key="manager.reviewForms.description">Description and Instructions</message>
-	<message key="manager.reviewForms.preview">Preview Form</message>
-	<message key="manager.reviewForms.completed">Completed</message>
-	<message key="manager.reviewForms.inReview">In Review</message>
+        <message key="manager.reviewForms.description">Описание и указания</message>
+        <message key="manager.reviewForms.preview">Преглед на формуляра</message>
+        <message key="manager.reviewForms.completed">Завършено</message>
+        <message key="manager.reviewForms.inReview">В рецензиране</message>
 	<message key="manager.reviewForms.confirmDeleteUnpublished">Are you sure you wish to delete this unpublished review form?</message>
 
 	<message key="manager.reviewForms.form.titleRequired">A title is required for the review form.</message>
 
-	<message key="manager.reviewFormElements">Form Items</message>
-	<message key="manager.reviewFormElements.create">Create New Item</message>
-	<message key="manager.reviewFormElements.edit">Edit Form Item</message>
-	<message key="manager.reviewFormElements.noneCreated">No form items have been created.</message>
+        <message key="manager.reviewFormElements">Елементи на формуляра</message>
+        <message key="manager.reviewFormElements.create">Създаване на нов елемент</message>
+        <message key="manager.reviewFormElements.edit">Редактиране елемента на формуляра</message>
+        <message key="manager.reviewFormElements.noneCreated">Няма създадени елементи за формуляр.</message>
 	<message key="manager.reviewFormElements.confirmDelete">Are you sure you wish to delete an element of a published review form?</message>
-	<message key="manager.reviewFormElements.copyTo">Copy to:</message>
-	<message key="manager.reviewFormElements.question">Item</message>
-	<message key="manager.reviewFormElements.required">Reviewers required to complete item</message>
-	<message key="manager.reviewFormElements.included">Included in message to author</message>
-	<message key="manager.reviewFormElements.elementType">Item type</message>
+        <message key="manager.reviewFormElements.copyTo">Копиране в:</message>
+        <message key="manager.reviewFormElements.question">Елемент</message>
+        <message key="manager.reviewFormElements.required">От рецензентите се изисква да попълнят елемента</message>
+        <message key="manager.reviewFormElements.included">Влючено в съобщението до автора</message>
+        <message key="manager.reviewFormElements.elementType">Тип елемент</message>
 	<message key="manager.reviewFormElements.possibleResponse">Selection</message>
 	<message key="manager.reviewFormElements.addResponseItem">Add selection</message>
-	<message key="manager.reviewFormElements.chooseType">Choose item type</message>
+        <message key="manager.reviewFormElements.chooseType">Изберете тип елемент</message>
 	<message key="manager.reviewFormElement.changeType">Warning: Changing the review form element type from a multiple-choice type to an open-ended type will result in the deletion of the multiple choice options.</message>
 
 	<message key="manager.reviewFormElements.form.questionRequired">A question is required for the form item.</message>
 	<message key="manager.reviewFormElements.form.elementTypeRequired">An item type is required for the form item.</message>
 
-	<message key="manager.reviewFormElements.smalltextfield">Single word text box</message>
-	<message key="manager.reviewFormElements.textfield">Single line text box</message>
-	<message key="manager.reviewFormElements.textarea">Extended text box</message>
-	<message key="manager.reviewFormElements.checkboxes">Checkboxes (you can choose one or more)</message>
-	<message key="manager.reviewFormElements.radiobuttons">Radio buttons (you can only choose one)</message>
-	<message key="manager.reviewFormElements.dropdownbox">Drop-down box</message>
+        <message key="manager.reviewFormElements.smalltextfield">Поле за попълване с една дума</message>
+        <message key="manager.reviewFormElements.textfield">Поле за попълване на един ред текст</message>
+        <message key="manager.reviewFormElements.textarea">Поле за повече редове текст</message>
+        <message key="manager.reviewFormElements.checkboxes">Отметки (може да се отмята една или повече)</message>
+        <message key="manager.reviewFormElements.radiobuttons">Радио бутон (може да изберете само едно)</message>
+        <message key="manager.reviewFormElements.dropdownbox">Падащ списък</message>
 
 	<!--  peer review -->
 	<message key="submission.reviewForm">Review Form</message>
 	<message key="submission.reviewFormResponse">Review Form Response</message>
 
-	<message key="editor.paper.reviewForms">Review Forms</message>
+        <message key="editor.paper.reviewForms">Формуляри за рецензиране</message>
 	<message key="editor.paper.selectReviewForm">Select Review Form</message>
 	<message key="editor.paper.clearReviewForm">Clear Review Form</message>
 	<message key="editor.paper.confirmChangeReviewForm">Warning: Changing the review form will affect any answers reviewers have made using this form. Are you sure you wish to continue?</message>
@@ -135,7 +135,7 @@
 	<message key="common.queue.long.submissionsUnassigned">Unassigned</message>
 	<message key="common.queue.short.submissionsUnassigned">Unassigned</message>
 	<message key="common.queue.long.submissionsInReview">Submissions in Review</message>
-	<message key="common.queue.short.submissionsInReview">In Review</message>
+        <message key="common.queue.short.submissionsInReview">В рецензиране</message>
 	<message key="common.queue.long.submissionsAccepted">Presentations</message>
 	<message key="common.queue.short.submissionsAccepted">Presentations</message>
 	<message key="common.queue.long.submissionsArchives">Archives</message>
@@ -169,8 +169,8 @@
 	<message key="paper.suppFile">Допълнителен файл</message>
 	<message key="paper.suppFiles">Допълнителан файл(ове)</message>
 	<message key="paper.suppFilesAbbrev">Supp. files</message>
-	<message key="paper.discipline">Academic discipline and sub-disciplines</message>
-	<message key="paper.subjectClassification">Subject classification</message>
+        <message key="paper.discipline">Академични дисциплини и под-дисциплини</message>
+        <message key="paper.subjectClassification">Класификация на темите</message>
         <message key="paper.subject">Ключови думи</message>
 	<message key="paper.coverage">Покритие</message>
 	<message key="paper.coverageGeo">Geo-spatial coverage</message>
@@ -237,9 +237,9 @@
 	<message key="conference.conference">Conference</message>
 
 	<!-- Common Scheduled Conference Terms -->
-	<message key="schedConf.scheduledConferences">Scheduled Conferences</message>
-	<message key="schedConf.noScheduledConferences">No Scheduled Conferences</message>
-	<message key="schedConf.schedConf">Scheduled Conference</message>
+        <message key="schedConf.scheduledConferences">Назначени конференции</message>
+        <message key="schedConf.noScheduledConferences">Няма назначени конференции</message>
+        <message key="schedConf.schedConf">Назначена конференция</message>
 	<message key="schedConf.contents">Conference Information</message>
 	<message key="schedConf.overview">Overview</message>
 	<message key="schedConf.trackPolicies">Track Policies</message>
@@ -421,8 +421,8 @@
 
 	<!-- General plugin information -->
 	<message key="plugins.categories.generic.description">Generic plugins are used to extend Open Conference Systems in a variety of ways that are not supported by the other plugin categories.</message>
-	<message key="plugins.categories.auth.description">Authorization Plugins allow Open Conference Systems to delegate user authentication tasks to other systems, such as LDAP servers.</message>
-	<message key="plugins.categories.citationFormats.description">Citation format plugins provide users with various formats in which to access paper citations.</message>
+        <message key="plugins.categories.auth.description">Добавките за удостоверяване позволяват на Open Conference Systems да удостоверява потребители с помощта на други системи, като сървъри LDAP.</message>
+        <message key="plugins.categories.citationFormats.description">Добавките за формати на цитиранията позволяват на потребителите да използват различни формати за цитирания.</message>
 
 	<!-- Leftovers -->
 	<message key="manager.setup.finalStepSavedNotes"><![CDATA[
@@ -431,16 +431,16 @@
 			<p>You can return to these six pages at any time by following the links to "User Home > Conference Manager > Setup".</p>
 			<p>You can manage scheduled conferences through "User Home > Conference Manager > Setup"</p>
 	]]></message>
-	<message key="manager.setup.citations">Allow authors to separately provide a formatted list of references (citations) as part of their submission.</message>
+        <message key="manager.setup.citations">Позволяване на авторите да предоставят отделно списъка на цитиранията като част от своето предложение.</message>
 
-	<message key="manager.setup.indexing.registerConferenceForIndexing.description"><![CDATA[To have the contents of this conference indexed within a globally distributed system of research databases, <a href="http://pkp.sfu.ca/harvester/add.php" target="_blank">register</a> your conference's URL with the Public Knowledge Project metadata <a href="http://pkp.sfu.ca/harvester/" target="_blank">harvester</a>. This tool collects the metadata from each indexed item in this conference, enabling accurate and collective searching among the research sites that adhere to the <a href="http://www.openarchives.org/OAI/openarchivesprotocol.htm#Introduction" target="_blank">Open Archives Initiative Protocol for Metadata Harvesting</a>.
+        <message key="manager.setup.indexing.registerConferenceForIndexing.description"><![CDATA[За да бъде индексирано съдържанието на тази конференция в глобална разпределена система от изследователски бази данни, <a href="http://pkp.sfu.ca/harvester/add.php" target="_blank">регистрирайте</a> URL адреса на конференцията Public Knowledge Project <a href="http://pkp.sfu.ca/harvester/" target="_blank">metadata harvester</a>. Този проект събира метаданни от всяка индексирана работа от тази конференция, позволявайки точно колективно търсене във всички сайтове прилагащи <a href="http://www.openarchives.org/OAI/openarchivesprotocol.htm#Introduction" target="_blank">Open Archives Initiative Protocol for Metadata Harvesting</a>.
 <br /><br />
-Note that if your site administrator has already registered this site with the PKP Harvester, your conference will be indexed automatically and you do not need to register your conference.
+Забележете, че ако администраторът на сайта вече е регистрирал този сайт в PKP Harvester, конференцията ще бъде индексирана автоматично и не е необходимо да я регистрирате.
 <br /><br />
-<a href="http://pkp.sfu.ca/harvester/add.php" target="_blank">Click here</a> and enter <span class="highlight">{$siteUrl}</span> under <strong>Site URL</strong>, and <span class="highlight">{$oaiUrl}</span> under <strong>Base URL for OAI Archive</strong>.]]></message>
+<a href="http://pkp.sfu.ca/harvester/add.php" target="_blank">Щракнете тук</a> и въведете <span class="highlight">{$siteUrl}</span> срещу <strong>Site URL</strong>, и <span class="highlight">{$oaiUrl}</span> срещу <strong>Base URL for OAI Archive</strong>.]]></message>
 
 	<!-- Scheduled Conference Setup Step 2 -->
-	<message key="manager.schedConfSetup.submissions.subjectClassificationDescription"><![CDATA[Conference will use a subject classification system available on the web.<br />
+        <message key="manager.schedConfSetup.submissions.subjectClassificationDescription"><![CDATA[Conference will use a Класификация на темите system available on the web.<br />
 Title of classification system]]></message>
 
 	<!-- People Management -->
@@ -645,11 +645,11 @@ Active is how many reviews are currently being considered or underway.]]></messa
 	<message key="about.statistics">Statistics</message>
 	<message key="about.conferenceContact">Conference Contact</message>
 	<message key="about.aboutTheConference">Относно конференцията</message>
-	<message key="about.organizingTeam">Organizing Team</message>
+        <message key="about.organizingTeam">Организационен екип</message>
 	<message key="about.conferencePolicies">Conference Policies</message>
 	<message key="about.submissions">Submissions</message>
 	<message key="about.sponsors">Sponsors</message>
-	<message key="about.contributors">Sources of Support</message>
+        <message key="about.contributors">Подкрепящи организации</message>
 	<message key="about.onlineSubmissions">Online Submissions</message>
 	<message key="about.onlineSubmissions.haveAccount">Already have a Username/Password for {$conferenceTitle}?</message>
 	<message key="about.onlineSubmissions.login">Go to Login</message>
@@ -657,7 +657,7 @@ Active is how many reviews are currently being considered or underway.]]></messa
 	<message key="about.onlineSubmissions.registration">Go to Registration</message>
 	<message key="about.onlineSubmissions.registrationRequired">Registration and login are required to submit items online and to check the status of current submissions.</message>
 	<message key="about.authorGuidelines">Author Guidelines</message>
-	<message key="about.submissionPreparationChecklist">Submission Preparation Checklist</message>
+        <message key="about.submissionPreparationChecklist">Списък проверки на готовноста на предложението</message>
 	<message key="about.copyrightNotice">Copyright Notice</message>
         <message key="about.privacyStatement">Дакларация за поверителност</message>
 	<message key="about.peerReviewProcess">Peer Review Process</message>
