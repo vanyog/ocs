@@ -206,7 +206,7 @@
 	<message key="submission.changeTrack">Change to</message>
 	<message key="submission.acceptance">Agreed to Review</message>
 	<message key="submission.complete.description">Add the submission to the list of accepted Presentations.</message>
-	<message key="submission.directorDecision">Director Decision</message>
+        <message key="submission.directorDecision">Решение на директора</message>
 	<message key="submission.stage">Stage&amp;nbsp;{$stage}</message>
 	<message key="submission.directorReview">Director Review</message>
 	<message key="submission.notifyAuthor">Notify Author</message>
@@ -226,7 +226,7 @@
 	<message key="submissions.reviewType">Review Type</message>
 	<message key="submissions.pendingPresentation">Awaiting Upload</message>
 	<message key="submissions.expired">Expired</message>
-	<message key="submissions.directorDecision">Director Decision</message>
+        <message key="submissions.directorDecision">Решение на директора</message>
 	<message key="submissions.directorRuling">Director Ruling</message>
 	<message key="trackDirector.galley.replaceGalley">Replace File</message>
 	<message key="submission.abstract">Резюме</message>
