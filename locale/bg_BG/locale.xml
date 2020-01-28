@@ -180,8 +180,8 @@
 	<message key="paper.language">Език</message>
 	<message key="paper.trackDirector">TD</message>
 	<message key="paper.commentsToDirector">Author comments</message>
-	<message key="paper.submission">Submission</message>
-	<message key="paper.submissions">Submissions</message>
+        <message key="paper.submission">Предложение</message>
+        <message key="paper.submissions">Предложения</message>
 	<message key="paper.abstract">Резюме</message>
 	<message key="paper.details">Details</message>
 	<message key="paper.location">Location</message>
@@ -240,10 +240,10 @@
         <message key="schedConf.scheduledConferences">Назначени конференции</message>
         <message key="schedConf.noScheduledConferences">Няма назначени конференции</message>
         <message key="schedConf.schedConf">Назначена конференция</message>
-	<message key="schedConf.contents">Conference Information</message>
+        <message key="schedConf.contents">Информация за конференция</message>
 	<message key="schedConf.overview">Overview</message>
 	<message key="schedConf.trackPolicies">Track Policies</message>
-	<message key="schedConf.schedule">Schedule</message>
+        <message key="schedConf.schedule">График</message>
 	<message key="schedConf.program">Program</message>
 	<message key="schedConf.cfp">Call for Papers</message>
 	<message key="schedConf.discussion">Discussion</message>
@@ -251,18 +251,18 @@
 	<message key="schedConf.accommodation">Accommodation</message>
 	<message key="schedConf.supporters">Organizers and Partners</message>
 	<message key="schedConf.timeline">Timeline</message>
-	<message key="schedConf.schedule">Conference Schedule</message>
+        <message key="schedConf.schedule">График на конференцията</message>
 	<message key="schedConf.links">Related Links</message>
 	<message key="schedConf.presentations">Presentations and Authors</message>
 	<message key="schedConf.presentations.short">Presentations</message>
 	<message key="schedConf.abstract">Резюме</message>
 	<message key="schedConf.submission">Submission</message>
-	<message key="schedConf.submissions">Submissions</message>
+        <message key="schedConf.submissions">Предложения</message>
 
 	<message key="schedConf.cfp.title">Call for Papers</message>
 	<message key="schedConf.overview.title">Overview</message>
 	<message key="schedConf.presentations.title">Presentations and Authors</message>
-	<message key="schedConf.schedule.title">Schedule</message>
+        <message key="schedConf.schedule.title">График</message>
 	<message key="schedConf.program.title">Program</message>
 	<message key="schedConf.accommodation.title">Accommodation</message>
 	<message key="schedConf.trackPolicies.title">Track Policies</message>
@@ -302,7 +302,7 @@
 
 	<!-- User -->
 	<message key="user.showAllConferences">Show My Conferences</message>
-	<message key="user.createAccount">Create</message>
+        <message key="user.createAccount">Създаване</message>
 	<message key="user.createAccountForOtherConferences">Create an Account for Other Conferences</message>
 	<message key="user.myConferences">Моите конференции</message>
 	<message key="user.noRoles.chooseConference">Your account is not currently associated with any conferences. Please choose a conference:</message>
@@ -319,7 +319,7 @@
         <message key="user.role.manager">Управляване на конференция</message>
 	<message key="user.role.director">Director</message>
 	<message key="user.role.trackDirector">Track Director</message>
-	<message key="user.role.author">Author</message>
+        <message key="user.role.author">Автор</message>
 
 	<message key="user.role.managers">Conference Managers</message>
 	<message key="user.role.directors">Directors</message>
@@ -332,19 +332,19 @@
 	 *
 	-->
 
-	<message key="event.logType.paper">Paper</message>
-	<message key="event.logType.author">Author</message>
-	<message key="event.logType.director">Director</message>
-	<message key="event.logType.review">Review</message>
-	<message key="event.logType.conference">Conference</message>
+        <message key="event.logType.paper">Статия</message>
+        <message key="event.logType.author">Автор</message>
+        <message key="event.logType.director">Директор</message>
+        <message key="event.logType.review">Рецензия</message>
+        <message key="event.logType.conference">Конференция</message>
 
-	<message key="event.eventLog">Event Log</message>
-	<message key="event.logLevel">Level</message>
+        <message key="event.eventLog">Журнал събития</message>
+        <message key="event.logLevel">Ниво</message>
 
-	<message key="event.logLevel.info">Info</message>
-	<message key="event.logLevel.notice">Notice</message>
-	<message key="event.logLevel.warning">Warning</message>
-	<message key="event.logLevel.error">Error</message>
+        <message key="event.logLevel.info">Инфо</message>
+        <message key="event.logLevel.notice">Бележка</message>
+        <message key="event.logLevel.warning">Внимание</message>
+        <message key="event.logLevel.error">Грешка</message>
 
 	<message key="event.general.defaultEvent">Submission event</message>
 
@@ -508,7 +508,7 @@ Active is how many reviews are currently being considered or underway.]]></messa
 	<message key="reviewer.paper.decision.resubmitElsewhere">Submit Elsewhere</message>
 	<message key="reviewer.paper.decision.decline">Decline Submission</message>
 	<message key="reviewer.paper.decision.seeComments">See Comments</message>
-	<message key="reviewer.paper.schedule">Schedule</message>
+        <message key="reviewer.paper.schedule">График</message>
 	<message key="reviewer.paper.submissionToBeReviewed">Submission To Be Reviewed</message>
 	<message key="reviewer.paper.reviewSchedule">Review Schedule</message>
 	<message key="reviewer.paper.reviewSteps">Review Steps</message>
@@ -564,24 +564,24 @@ Active is how many reviews are currently being considered or underway.]]></messa
 	<message key="user.account.form.passwordsDoNotMatch">The passwords do not match.</message>
 	<message key="user.account.selectConference">Изберете конференция, за която да си направите профил</message>
 	<message key="user.account.noConferences">Няма конференции, за които да си направите профил в този сайт.</message>
-	<message key="user.account.selectSchedConf">Select a scheduled conference to create an account with</message>
-	<message key="user.account.noSchedConfs">There are no scheduled conferences you may create an account with on this site.</message>
-	<message key="user.account.createAs">Create account as</message>
+        <message key="user.account.selectSchedConf">Изберете назначена конференция за да създадете профил за нея</message>
+        <message key="user.account.noSchedConfs">Няма назначени конференции, в които можете да създадете профил на този сайт.</message>
+        <message key="user.account.createAs">Създаване на профил като</message>
         <message key="user.account.privacyStatement">Политика за поверителност</message>
-	<message key="user.account.completeForm">Fill in this form to create an account with this conference.</message>
-	<message key="user.account.hasAccount"><![CDATA[<a href="{$accountUrl}">Click here</a> if you already have an account with this or another conference on this site.]]></message>
+        <message key="user.account.completeForm">Попълнете този формуляр за да създадете профил за тази конференция.</message>
+        <message key="user.account.hasAccount"><![CDATA[<a href="{$accountUrl}">Щракнете тук</a> ако вече имате профил в тази или друга конференция на този сайт.]]></message>
 	<message key="user.account.hasNoAccount"><![CDATA[<a href="{$accountUrl}">Click here</a> if you do <strong>not</strong> already have an account with this or another conference on this site.]]></message>
 	<message key="user.account.loginToRegister">Enter your existing username and password to create an account with this conference.</message>
 	<message key="user.account.createAccountDisabled">This conference is currently not accepting new users.</message>
-	<message key="user.account.usernameRestriction">The username must contain only lowercase letters, numbers, and hyphens/underscores.</message>
-	<message key="user.account.passwordLengthRestriction">The password must be at least {$length} characters.</message>
+        <message key="user.account.usernameRestriction">Потребителското име може да съдържа само малки букви на латиница, цифри и "горно" или "средно" тире.</message>
+        <message key="user.account.passwordLengthRestriction">Паролата трябва да е дълга поне {$length} символа.</message>
 	<message key="user.account.form.passwordLengthTooShort">The password you entered is not long enough.</message>
-	<message key="user.account.readerDescription">Notified by email on publication of presentations.</message>
-	<message key="user.account.openAccessNotificationDescription">Notified by email when a conference is made open access.</message>
-	<message key="user.account.authorDescription">Able to submit items to the conference.</message>
-	<message key="user.account.reviewerDescriptionNoInterests">Willing to conduct peer review of submissions to the conference.</message>
-	<message key="user.account.reviewerDescription">Willing to conduct peer review of submissions to the conference. Identify reviewing interests (substantive areas and research methods).</message>
-	<message key="user.account.authorRegistrationMessage">Although you have a user account on this site, you are not currently a author in this conference.</message>
+        <message key="user.account.readerDescription">Уведомяван по имейл, когато бъде представена публикация.</message>
+        <message key="user.account.openAccessNotificationDescription">Уведомяван по имейл, когато конференцията бъде направена с отворен достъп.</message>
+        <message key="user.account.authorDescription">С възможност да предложи да се представи на конференцията.</message>
+        <message key="user.account.reviewerDescriptionNoInterests">Склонен да извършва рецензиране на предложени работи за конференцията.</message>
+        <message key="user.account.reviewerDescription">Склонен да извършва рецензиране на предложени работи за конференцията. Определете интереси за рецензиране (съществени области и изследователски методи).</message>
+        <message key="user.account.authorRegistrationMessage">Въпреки, че имате потребителски профил на този сайт, ви в момента не сте автор в тази конференция.</message>
 
 
 
@@ -642,15 +642,15 @@ Active is how many reviews are currently being considered or underway.]]></messa
 	<message key="schedConf.program.viewProgramFile">View the program</message>
 
 	<!-- About The Conference -->
-	<message key="about.statistics">Statistics</message>
-	<message key="about.conferenceContact">Conference Contact</message>
+        <message key="about.statistics">Статистики</message>
+        <message key="about.conferenceContact">Контакт за конференцията</message>
 	<message key="about.aboutTheConference">Относно конференцията</message>
         <message key="about.organizingTeam">Организационен екип</message>
-	<message key="about.conferencePolicies">Conference Policies</message>
-	<message key="about.submissions">Submissions</message>
+        <message key="about.conferencePolicies">Политики на конференцията</message>
+        <message key="about.submissions">Предложения</message>
 	<message key="about.sponsors">Sponsors</message>
         <message key="about.contributors">Подкрепящи организации</message>
-	<message key="about.onlineSubmissions">Online Submissions</message>
+        <message key="about.onlineSubmissions">Онлайн предложения</message>
 	<message key="about.onlineSubmissions.haveAccount">Already have a Username/Password for {$conferenceTitle}?</message>
 	<message key="about.onlineSubmissions.login">Go to Login</message>
 	<message key="about.onlineSubmissions.needAccount">Need a Username/Password?</message>
@@ -658,7 +658,7 @@ Active is how many reviews are currently being considered or underway.]]></messa
 	<message key="about.onlineSubmissions.registrationRequired">Registration and login are required to submit items online and to check the status of current submissions.</message>
 	<message key="about.authorGuidelines">Author Guidelines</message>
         <message key="about.submissionPreparationChecklist">Списък проверки на готовноста на предложението</message>
-	<message key="about.copyrightNotice">Copyright Notice</message>
+        <message key="about.copyrightNotice">Бележка за авторските права</message>
         <message key="about.privacyStatement">Дакларация за поверителност</message>
 	<message key="about.peerReviewProcess">Peer Review Process</message>
 	<message key="about.openAccessPolicy">Open Access Policy</message>
