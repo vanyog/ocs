@@ -24,7 +24,7 @@
 	<message key="admin.systemVersion">OCS Version</message>
 	<message key="admin.systemConfiguration">OCS Configuration</message>
 	<message key="admin.systemConfigurationDescription"><![CDATA[OCS configuration settings from <tt>config.inc.php</tt>.]]></message>
-	<message key="admin.hostedConferences">Приютени конференции</message>
+        <message key="admin.hostedConferences">Хоствани конференции</message>
 	<message key="admin.settings.conferenceRedirect">Пренасочване към конференция</message>
 	<message key="admin.settings.conferenceRedirectInstructions">Отварянето на сайта ще пренасочва към избраната конференция. Може да е полезно ако сайта приютява само една конференция.</message>
 	<message key="admin.settings.noConferenceRedirect">Без пренасочване</message>
