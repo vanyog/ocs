@@ -187,8 +187,8 @@
 	<message key="paper.location">Location</message>
 	<message key="paper.time">Time</message>
 	<message key="paper.comments.trackDefault">Default</message>
-	<message key="paper.comments.disable">Disable</message>
-	<message key="paper.comments.enable">Enable</message>
+        <message key="paper.comments.disable">Деактивиране</message>
+        <message key="paper.comments.enable">Активиране</message>
 	<message key="paper.fontSize">Font Size</message>
 	<message key="paper.fontSize.small.altText">Small</message>
 	<message key="paper.fontSize.medium.altText">Medium</message>

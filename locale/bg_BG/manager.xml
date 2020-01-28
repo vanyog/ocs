@@ -83,7 +83,7 @@
 	<message key="manager.people.mergeUsers.into.description">Select a user to whom to attribute the previous users' authorships, editing assignments, etc.</message>
 	<message key="manager.people.syncUserDescription">Enrollment synchronization will enroll all users enrolled in the specified role in the specified conference into the same role in this conference. This function allows a common set of users (e.g., Reviewers) to be synchronized between conferences.</message>
 	<message key="manager.plugins.copyError">Plugin was not successfully copied</message>
-	<message key="manager.plugins.delete">Delete Plugin</message>
+        <message key="manager.plugins.delete">Изтриване на добавката</message>
 	<message key="manager.plugins.deleteConfirm">Are you sure you wish to delete this plugin from the system?</message>
 	<message key="manager.plugins.deleteDescription">By clicking delete, you will delete the plugin from the server's file system.</message>
 	<message key="manager.plugins.deleteError">Plugin could not be deleted from the file system</message>
@@ -99,7 +99,7 @@
 	<message key="manager.plugins.installSuccessful">Successfully installed version</message>
 	<message key="manager.plugins.pleaseInstall">Plugin does not exist.  Please Install instead</message>
 	<message key="manager.plugins.pleaseUpgrade">Plugin already exists, but is newer than installed version.  Please upgrade instead</message>
-	<message key="manager.plugins.upgrade">Upgrade Plugin</message>
+        <message key="manager.plugins.upgrade">Актуализиране на добавката</message>
 	<message key="manager.plugins.upgradeDescription">This form allows you to upgrade a plugin.  Please ensure the plugin is compressed as a .tar.gz file.</message>
 	<message key="manager.plugins.upgradeFailed">Upgrade failed</message>
 	<message key="manager.plugins.upgradeSuccessful">Successfully upgraded to version</message>
