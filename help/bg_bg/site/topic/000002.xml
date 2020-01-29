@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<topic id="site/topic/000002" locale="en_US" title="Site Management" toc="site/toc/000000" key="site.siteManagement">
+<topic id="site/topic/000002" locale="bg_BG" title="Site Management" toc="site/toc/000000" key="site.siteManagement">
 	<section>
 		<![CDATA[<p>OCS is designed to be a multiple conference management system, and the Site Administrator is responsible for configuring site-level settings and creating new conferences to be hosted within a single site. Hosted conferences are entirely independent, with the exception of user accounts; while a user may participate in any combination of roles in any number of hosted conferences, the same email address and username will refer to the same user regardless of conference.</p>]]>
 	</section>

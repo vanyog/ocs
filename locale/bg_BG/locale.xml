@@ -121,15 +121,15 @@
 	<!-- Navigation -->
 	<message key="navigation.conferenceHelp">Помощ за конференция</message>
 	<message key="navigation.account">Профил</message>
-	<message key="navigation.archive">Archive</message>
+        <message key="navigation.archive">Архив</message>
         <message key="navigation.current">Текущи конференции</message>
-	<message key="navigation.otherConferences">Other Conferences</message>
-	<message key="navigation.browseByConference">By Conference</message>
-	<message key="navigation.browseByAuthor">By Author</message>
-	<message key="navigation.infoForAuthors">For Authors</message>
-	<message key="navigation.infoForReviewers">For Reviewers</message>
-	<message key="navigation.infoForAuthors.long">Information For Authors</message>
-	<message key="navigation.infoForReviewers.long">Information For Reviewers</message>
+        <message key="navigation.otherConferences">Други конференции</message>
+        <message key="navigation.browseByConference">По конференция</message>
+        <message key="navigation.browseByAuthor">По автор</message>
+        <message key="navigation.infoForAuthors">За авторите</message>
+        <message key="navigation.infoForReviewers">За рецензентите</message>
+        <message key="navigation.infoForAuthors.long">Информация за автори</message>
+        <message key="navigation.infoForReviewers.long">Информация за рецензенти</message>
 
 	<!-- Paper Queues -->
 	<message key="common.queue.long.submissionsUnassigned">Unassigned</message>

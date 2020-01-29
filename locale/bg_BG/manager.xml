@@ -25,7 +25,7 @@
         <message key="manager.conferenceSiteManagement">Управяване сайт на конференция</message>
         <message key="manager.currentConferences">Текущи конференции</message>
 	<message key="manager.emails.confirmResetAll">Are you sure you want to reset all email templates in this conference? You will lose any customizations you have made.</message>
-        <message key="manager.files.note">Бележка: Файловият браузър е инструмент, който позволява да бъдет преглеждани и манипулирани фаловете и деректориите, свързани с дадена конференция.</message>
+        <message key="manager.files.note">Бележка: Файловият браузър е инструмент, който позволява да бъдат преглеждани и манипулирани фаловете и деректориите, свързани с дадена конференция.</message>
         <message key="manager.groups">Организационен екип</message>
 	<message key="manager.groups.create">Create Organizing Team Title</message>
 	<message key="manager.groups.disableBoard">The system will generate a list of people under their assigned roles (Conference Director, Reviewer, etc.)</message>
@@ -99,12 +99,12 @@
 	<message key="manager.plugins.installSuccessful">Successfully installed version</message>
 	<message key="manager.plugins.pleaseInstall">Plugin does not exist.  Please Install instead</message>
 	<message key="manager.plugins.pleaseUpgrade">Plugin already exists, but is newer than installed version.  Please upgrade instead</message>
-        <message key="manager.plugins.upgrade">Актуализиране на добавката</message>
-	<message key="manager.plugins.upgradeDescription">This form allows you to upgrade a plugin.  Please ensure the plugin is compressed as a .tar.gz file.</message>
+        <message key="manager.plugins.upgrade">Надграждане на добавката</message>
+        <message key="manager.plugins.upgradeDescription">Тозу формуляр Ви позволява да надградите добавка. Моля, уверете се, че добавката е архивиране във файл от тип .tar.gz.</message>
 	<message key="manager.plugins.upgradeFailed">Upgrade failed</message>
 	<message key="manager.plugins.upgradeSuccessful">Successfully upgraded to version</message>
-	<message key="manager.plugins.uploadError">Error uploading file</message>
-	<message key="manager.plugins.uploadPluginDir">Select plugin file</message>
+        <message key="manager.plugins.uploadError">Грешка при качване на файл</message>
+        <message key="manager.plugins.uploadPluginDir">Избиране на файл с добавка</message>
 	<message key="manager.plugins.versionFileNotFound">Version.xml not found in plugin directory</message>
 	<message key="manager.program">Program</message>
 	<message key="manager.program.form.description">When the conference program is ready to be presented to users, upload it here or enter it as plain text.</message>

@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<topic id="editorial/topic/000016" locale="en_US" title="Submissions" toc="editorial/toc/000004" key="editorial.authorsRole.submissions">
+<topic id="editorial/topic/000016" locale="bg_BG" title="Submissions" toc="editorial/toc/000004" key="editorial.authorsRole.submissions">
 	<section>
 		<![CDATA[<p>Once logged in, an Author can visit their Active Submissions list by checking their Author's User Home page. If the scheduled conference is currently accepting submissions, the Author will see a link to start the submission process at the bottom of the page. The Author can also visit an Archive of past submission by clicking the Archive link under the Active Submissions heading.</p>
 		<p>If the conference is currently accepting submissions, the Author must go through a multi-step submission process, the amount of steps depending on what the scheduled conference requires for a completed submission.</p>

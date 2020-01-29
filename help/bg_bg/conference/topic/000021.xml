@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<topic id="conference/topic/000021" locale="en_US" title="Registration" toc="conference/toc/000002"  key="conference.currentConferences.registration">
+<topic id="conference/topic/000021" locale="bg_BG" title="Registration" toc="conference/toc/000002"  key="conference.currentConferences.registration">
 	<section>
 		<![CDATA[<p>The Conference Manager can use the Registration feature to create different registration types for the scheduled conference. Registrations can be used to restrict access to online material, and in conjunction with the payment plugin can also manage conference attendance and payment.</p>]]>
 	</section>

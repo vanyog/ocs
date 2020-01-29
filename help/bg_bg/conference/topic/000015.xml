@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<topic id="conference/topic/000015" locale="en_US" title="Conference Timeline" toc="conference/toc/000002"  key="conference.currentConferences.timeline">
+<topic id="conference/topic/000015" locale="bg_BG" title="Conference Timeline" toc="conference/toc/000002"  key="conference.currentConferences.timeline">
 	<section>
 		<![CDATA[<p>The Conference Manager can control all aspects of the scheduled conference timeline from this page. Dates can be set for the conference start and end date; for promoting the conference or moving it to the archive; for author registration and submission acceptance time frames; and for reviewer registration. </p>
 		

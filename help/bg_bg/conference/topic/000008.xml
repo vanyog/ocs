@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<topic id="conference/topic/000008" locale="en_US" title="Prepared Emails" toc="conference/toc/000001" key="conference.generalManagement.emails">
+<topic id="conference/topic/000008" locale="bg_BG" title="Prepared Emails" toc="conference/toc/000001" key="conference.generalManagement.emails">
 	<section title="Prepared Emails">
 		<![CDATA[<p>OCS uses a variety of prepared emails to communicate during ongoing workflow processes, such as: assignment requests to Track Directors by the Director; review requests and responses between Track Directors and Reviewers, and notifications from Track Directors to Authors. The Conference Manager can find a full list of email templates by clicking the "Prepared Emails" link under General Management on the Conference Site Management page. These can be edited by clicking the Edit link next to each of them, and can also be disabled or reset to the original template. New email templates can be created. </p>]]>	
 	</section>

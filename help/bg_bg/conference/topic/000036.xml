@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<topic id="conference/topic/000036" locale="en_US" title="Additional Website Content" toc="conference/toc/000005" key="conference.generalManagement.websiteManagement.additional">
+<topic id="conference/topic/000036" locale="bg_BG" title="Additional Website Content" toc="conference/toc/000005" key="conference.generalManagement.websiteManagement.additional">
 	<section>
 		<![CDATA[<p><em>Scheduled Conference Redirect:</em><br /> Any requests to the hosted conference will redirect to the selected scheduled conference.  This setting is typically used when the conference holds a single scheduled conference.</p>
 		<p><em>Homepage:</em><br /> This is to add flavour to your conference home visually and verbally, by uploading an image and adding extra information. The Additional Content field will accept HTML and will display under the homepage image, if one has been uploaded.</p>

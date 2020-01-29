@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<topic id="conference/topic/000005" locale="en_US" title="Website Management" toc="conference/toc/000001" subtoc="conference/toc/000005" key="conference.generalManagement.webSiteManagement.websiteManagement">
+<topic id="conference/topic/000005" locale="bg_BG" title="Website Management" toc="conference/toc/000001" subtoc="conference/toc/000005" key="conference.generalManagement.webSiteManagement.websiteManagement">
 	<section>
 		<![CDATA[<p><strong>Website Management</strong> is where the Conference Manager configures the hosted conference site. There are six steps:</p>
 		<ol>

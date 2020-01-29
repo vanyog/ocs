@@ -12,14 +12,14 @@
   * $Id$
   -->
 
-<topic id="index/topic/000000" locale="en_US" title="OCS Help" toc="index/toc/000000" key="index.index">
+<topic id="index/topic/000000" locale="bg_BG" title="Помощ за OCS" toc="index/toc/000000" key="index.index">
 	<section>
-		<![CDATA[<p>The online help for Open Conference Systems (OCS) is designed to assist users in the process of managing an entire conference - creating a conference web site, arranging times and locations for conference presentations and events, submitting, reviewing and posting conference papers, registering attendees, and indexing and sharing the resulting proceedings. It is also intended to serve as a manual for OCS that describes the scope and workflow of the software. This help document also provides editorial advice on common practices in scholarly conference publishing. In addition to this help document, users can contact the conference's technical support, which is listed under People on the About the Conference page. </p>
-		<p>Because OCS employs designated roles for particular tasks of a certain phase &mdash; from the Conference Manager who establishes the scheduled conference to the Author who uploads the presentation materials &mdash; each topic covered in this help document refers to each role performing each task. Online help is context-dependent: what one views depends on one's role, and where they are in the system.</p>
+                <![CDATA[<p>Онлайн помощната информация за Open Conference Systems (OCS) е проектирана да помага на потребителите в процеса на провеждане на конференция - създаване на уебсайт на конференция, задаване време и място за изнасяне на доклади и събития, приемане на доклади, рецензиране и разпространяване на доклади от конференцията, регистриране на участници, индексиране и споделяне на доклади. Помотните страници са предназначени да послужат и като ръководство за ползване на OCS, което описва обхвата и работния процес на ползване на софтуера. Този помощен документ осигурява също съвети върху обичайни практики за научно публикуване. В добавка към този помощен документ, потребителите могат да контактуват с лицата за техническа поддръжка на конференцията, посочени на страница Относно, под заглавие Хора. </p>
+                <p>Тъй като OCS задава определени роли за опделните задачи на дадена фаза &mdash; от мениджър на конференция, който създава издания на конференция и времеви график, до автор, който качва материали за представяне &mdash; всяка тема от този документ се отнася за всяка от ролите, изпълняващи всяка задача. Онлайн помощта е контекстно зависима: какво ще види някой завини от неговата роля и къде се намира в сайта.</p>
 		
-		<p>Searching and navigation are enabled within Help document:</p>
-		<p><em>Search</em> In the upper right hand corner of each help page is a "Search" box. Entering a key word and clicking "Search" will return a listing of all existing matches in the help document, a brief description of each item and a link to the item.</p>
-		<p><em>Table of Contents</em> Clicking on this link takes the user to a table of contents for this help document.</p>
-		<p><em>Up a Level</em> Clicking on this link moves you up one level in the hierarchical structure of this help document.</p>]]>
+                <p>Възможно е търсене и навигация в помощните документи:</p>
+                <p><em>Търсене</em> В десния ляв ъгъл на помощната страница има поле за търсене. Въвеждайки ключова дума и щраквайки върху "Търсене" ще върне списък на съществуващите срещания на думата в документите, кратко описание на всеки елемент и връзка към него.</p>
+                <p><em>Съдържание</em> Щракване върху тази хипервръзка отваря съдържанието на помощтните документи.</p>
+                <p><em>Ниво нагоре</em> Щракване върху тази хипервръзка отваря по-външното ниво в йерархията на помощните документи.</p>]]>
    </section>
 </topic>

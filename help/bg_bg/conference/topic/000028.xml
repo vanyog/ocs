@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<topic id="conference/topic/000028" locale="en_US" title="Merge Users" toc="conference/toc/000003" key="conference.users.mergeUsers">
+<topic id="conference/topic/000028" locale="bg_BG" title="Merge Users" toc="conference/toc/000003" key="conference.users.mergeUsers">
 	<section>
 		<![CDATA[<p>The Merge Users feature allows the Conference Manager to merge two user accounts into a single account, transferring assignments, submissions, and other items from the first account to the second and deleting the first one. Normally it is for someone who has two user accounts. </p>
 			<p>The following items are transferred:</p>

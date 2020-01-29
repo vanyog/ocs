@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<topic id="conference/topic/000035" locale="en_US" title="About the Conference" toc="conference/toc/000005" key="conference.generalManagement.websiteManagement.about">
+<topic id="conference/topic/000035" locale="bg_BG" title="About the Conference" toc="conference/toc/000005" key="conference.generalManagement.websiteManagement.about">
 	<section>
 		<![CDATA[<p><em>Title</em> and <em>Conference Description:</em><br /> The contents of these fields are automatically filled in with information specified by the Site Administrator when the hosted conference was initially created, but can be modified by the Conference Manager here. The conference title and description will appear in the list of hosted conferences from the site's index page.</p>
 		<p><em>Principal Contact for Conference Website:</em><br /> This is the principal contact information for the hosted conference as a whole. Primary contacts can also be assigned to individual scheduled conferences. </p>

@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<topic id="editorial/topic/000009" locale="en_US" title="Ensuring a Blind Peer Review" toc="editorial/toc/000001" key="editorial.directorsRole.blindPeerReview">
+<topic id="editorial/topic/000009" locale="bg_BG" title="Ensuring a Blind Peer Review" toc="editorial/toc/000001" key="editorial.directorsRole.blindPeerReview">
 	<section>
 		<![CDATA[<p>To ensure the integrity of the blind peer-review for submission to the conference, every effort should be made to prevent the identities of the Authors and Reviewers from being known to each other. This involves the Authors, Directors, Track Directors, and Reviewers (who upload documents as part of their review) checking to see if the following steps have been taken with regard to the text and the file properties:</p>
 <ol><li>The Authors of the document have deleted their names from the text, with "Author" and year used in the references and footnotes, instead of the Authors' name, article title, etc.</li>

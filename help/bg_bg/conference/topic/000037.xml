@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<topic id="conference/topic/000037" locale="en_US" title="Website Headers, Footers, Lists and Navigation Bar" toc="conference/toc/000005" key="conference.generalManagement.websiteManagement.headersFooters">
+<topic id="conference/topic/000037" locale="bg_BG" title="Website Headers, Footers, Lists and Navigation Bar" toc="conference/toc/000005" key="conference.generalManagement.websiteManagement.headersFooters">
 	<section>
 		<![CDATA[<p><em>Conference Homepage Header:</em><br /> Any image or logo uploaded here, or any title text written here will appear on the hosted conference homepage only.</p>
 		<p><em>Website Header:</em><br />Any information added here will appear on all hosted conference non-homepage pages. An alternate header, including HTML code, can be added here.</p>

@@ -59,9 +59,9 @@
 	<message key="plugins.generic.translator.file.translation">Translation</message>
 	<message key="plugins.generic.translator.email.reference">Reference Version</message>
 	<message key="plugins.generic.translator.email.translation">Translation</message>
-	<message key="plugins.generic.translator.file.reset">Reset</message>
+        <message key="plugins.generic.translator.file.reset">Възстановяване</message>
 	<message key="plugins.generic.translator.file.resetToReference">Reset To Reference</message>
-	<message key="plugins.generic.translator.email.reset">Reset</message>
+        <message key="plugins.generic.translator.email.reset">Възстановяване</message>
 	<message key="plugins.generic.translator.email.resetToReference">Reset To Reference</message>
 	<message key="plugins.generic.translator.file.resetConfirm">Are you sure you wish to reset the file contents?</message>
 	<message key="plugins.generic.translator.email.resetConfirm">Are you sure you wish to reset the email contents?</message>

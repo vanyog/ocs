@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<topic id="conference/topic/000033" locale="en_US" title="Authors" toc="conference/toc/000004" key="conference.roles.authors">
+<topic id="conference/topic/000033" locale="bg_BG" title="Authors" toc="conference/toc/000004" key="conference.roles.authors">
 	<section>
 		<![CDATA[<p>Authors are able to submit items to a scheduled conference directly through the conference website. Then by logging in the conference website, the Author can track the status of submitted items, and participate in the editorial process.</p>
         <p>New users can enroll themselves as an Author on registration to a scheduled conference, and can enroll themselves with other scheduled conferences from their profile page.</p>

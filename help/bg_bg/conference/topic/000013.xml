@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<topic id="conference/topic/000013" locale="en_US" title="System Plugins" toc="conference/toc/000001" key="conference.generalManagement.plugins">
+<topic id="conference/topic/000013" locale="bg_BG" title="System Plugins" toc="conference/toc/000001" key="conference.generalManagement.plugins">
 	<section>
 		<![CDATA[<p>OCS employs a robust plugin architecture, making it easy for developers to add new functionality without making changes to core code. A number of plugins come pre-installed by default. Plugins fall into the following general categories:  generic plugins; import/export plugins; payment plugins; block plugins; citation format plugins; and theme plugins. </p>
 		

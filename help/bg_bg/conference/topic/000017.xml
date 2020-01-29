@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<topic id="conference/topic/000017" locale="en_US" title="Organizing Team" toc="conference/toc/000002"  key="conference.currentConferences.organizingTeam">
+<topic id="conference/topic/000017" locale="bg_BG" title="Organizing Team" toc="conference/toc/000002"  key="conference.currentConferences.organizingTeam">
 	<section>
 		<![CDATA[<p>OCS displays an organizing team list on the About the Conference page: this list includes team names, which in turn link to member biographies and email addresses. The Conference Manager can control how the scheduled conference displays its organizing team from the Conference Site Management Organizing Team page: namely, whether the organizing team is culled from the system's assigned roles (Conference Manager, Director, Track Director, etc.) or custom-made.</p>
 		<p>If the first choice (create teams from assigned roles) is selected, the Conference Manager will have to do no further work and the team will be populated automatically. If the second choice is selected, the Conference Manager will have to define organizing team titles (Directors; Managers; etc.) and populate them with users from the system database.</p>

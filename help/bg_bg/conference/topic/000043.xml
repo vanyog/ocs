@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<topic id="conference/topic/000043" locale="en_US" title="Contexts" toc="conference/toc/000009" key="conference.generalManagement.readingTools.contexts">
+<topic id="conference/topic/000043" locale="bg_BG" title="Contexts" toc="conference/toc/000009" key="conference.generalManagement.readingTools.contexts">
 	<section>
 		<![CDATA[<p>Each Related Items version consists of multiple contexts with each context in turn consisting of a number of searches. For example, the Related Item version "Agriculture" includes a list of contexts; its "Pay-per-view" context includes links search engines for pay-per-view services like Ingenta, Ebrary, and so on. These searches, and the contexts they are grouped into, can be created, edited or deleted. Both can be reordered.</p>]]>
 </section>

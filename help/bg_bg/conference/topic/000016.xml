@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<topic id="conference/topic/000016" locale="en_US" title="Conference Tracks" toc="conference/toc/000002"  key="conference.currentConferences.tracks">
+<topic id="conference/topic/000016" locale="bg_BG" title="Conference Tracks" toc="conference/toc/000002"  key="conference.currentConferences.tracks">
 	<section>
 		<![CDATA[<p>Conferences can be split into multiple "tracks" or sections, with different policies and criteria for each track. OCS comes with one default "General Papers" track, which can be edited or removed. Track directors can be assigned to be responsible for the editorial process regarding submissions to a particular track. At least one track must be open to the public (ie., submissions not restricted to Directors and Track Directors only) for authors to be able to submit; during the submission process, they must choose between any track that is open to them.</p>]]>
 	</section>

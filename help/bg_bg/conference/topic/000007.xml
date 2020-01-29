@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<topic id="conference/topic/000007" locale="en_US" title="Announcements" toc="conference/toc/000001" key="conference.genneralManagement.announcements">
+<topic id="conference/topic/000007" locale="bg_BG" title="Announcements" toc="conference/toc/000001" key="conference.genneralManagement.announcements">
 	<section>
 		<![CDATA[<p>The Conference Manager can post announcements that are then available to readers who visit the site. Posted announcements appear on the Announcements page available from the top navigation bar, and optionally on the conference's homepage.</p>
 		<p><em>Deploying the announcement module</em>. The Conference Manager must first indicate in Website Management Setup 2.4 that the hosted conference will be using announcements. Once enabled, the Announcements function will appear under General Management as a link. In addition, the Conference Manager must indicate whether or not announcements should be displayed on the conference's homepage, and specify the number of the most recent announcements to be displayed. An introductory text may also be provided: this will appear at the top of the Announcements page.</p>

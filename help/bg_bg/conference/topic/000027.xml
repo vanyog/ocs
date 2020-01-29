@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<topic id="conference/topic/000027" locale="en_US" title="Create New User" toc="conference/toc/000003" key="conference.users.createNewUser">
+<topic id="conference/topic/000027" locale="bg_BG" title="Create New User" toc="conference/toc/000003" key="conference.users.createNewUser">
 	<section>
 		<![CDATA[<p>The Conference Manager can create new users and assign them roles specific to a hosted conference, and optionally to a scheduled conference.</p>]]>
 	</section>

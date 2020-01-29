@@ -12,62 +12,62 @@
   * $Id$
   -->
 
-<topic id="intro/topic/000000" locale="en_US" title="Introduction to OCS" toc="index/toc/000000" subtoc="intro/toc/000000" key="intro.index">
+<topic id="intro/topic/000000" locale="bg_BG" title="Въведение в OCS" toc="index/toc/000000" subtoc="intro/toc/000000" key="intro.index">
 	<section>
-		<![CDATA[<p>Open Conference Systems (OCS) is an open source solution to managing and publishing scholarly conferences online. OCS is a highly flexible management and publishing system that can be downloaded for free and installed on a local Web server. It has been designed to reduce the time and energy devoted to the clerical and managerial tasks associated with managing a conference, while improving the record-keeping and efficiency of editorial processes. It seeks to improve the scholarly and public quality of conference publishing through a number of innovations, from making policies more transparent to improving indexing. </p>]]>	
+                <![CDATA[<p>Open Conference Systems (OCS) е решение с отворен код за управляване и публикуване онлайн на научни конференции. OCS е много гъвкава система за управление и публикуване, която може да бъде изтеглена безплатно и инсталирана на интернет сървър. Тя е проектирана да намали времето и енергията, отедялни за канцеларски и организаторски задачи, свързани с провеждането на една конференция, подобрявайки поддържането на записи и ефективността на редакторския процес. Тя търси да подобри научното и обществено качество на публикуването на конференции чрез многобройни иновации, от прозрачно представяне на политики до подобряване на индексирането. </p>]]>
 	</section>
-	<section title="System Background">
-		<![CDATA[<p><em>OCS is a conference management and publishing system</em>. OCS covers all aspects of online conference management and publishing, from setting up conference website to operational tasks such as submitting, reviewing, editing, publishing, archiving, and indexing of the conference papers. OCS also helps to manage the people involved in organizing a conference, including keeping track of the work of directors, track directors, reviewers, and authors, notifying readers and registrants, and assisting with the correspondence.</p>
-		<p><em>OCS is flexible and scalable</em>. A single installation of OCS can support the operation of multiple conferences, and multiple years for each conference. Each conference has its own unique URL as well as its own look and feel. OCS can enable a single director to manage all aspects of a conference, or OCS will support an international team of people with diverse responsibilities for a conference's various aspects.</p>
-		<p><em>OCS supports the principle of extending access</em>. This system is intended not only to assist with conference publishing, but also to demonstrate how costs of conference publishing can be reduced to the point where providing readers with "open access" to the contents of proceedings may be a viable option. The concept of open access is elaborated in a number of articles stemming from this project which are freely available under <a href="http://pkp.sfu.ca/pkp_publications" target="_blank">PKP Publications</a> on Public Knowledge Project website.</p>
-		<p><em>The origins of OCS</em>. Largely based on the existing code used for <a href="http://pkp.sfu.ca/?q=ojs" target="_blank">Open Journal Systems</a>, OCS was developed to meet the needs of scholarly conference organizers. OCS is a research and development initiative of the Public Knowledge Project at the University of British Columbia. Its continuing development is currently overseen by a partnership among UBC's Public Knowledge Project, the Canadian Center for Studies in Publishing, and the Simon Fraser University Library. For more information, see the <a href="http://pkp.sfu.ca/" target="_blank">Public Knowledge Project</a> web site. The latest version of OCS is 2.1, released in April 2008. OCS has been used by over 100 scholarly conferences, as shown by <a href="http://pkp.sfu.ca/ocs-conferences" target="_blank">OCS Conferences</a> on the PKP website. </p>
-		<p><em>OCS Features</em>.</p>
-		<p>OCS will allow you to:</p>
-		<ul><li>create a conference Web site</li>
-		<li>compose and send a call for papers</li>
-		<li>electronically accept paper and abstract submissions</li>
-		<li>allow paper submitters to edit their work</li>
-		<li>post conference proceedings and papers in a searchable format</li>
-		<li>post, if you wish, the original data sets</li>
-		<li>register participants</li>
-		<li>integrate post-conference online discussions</li></ul>
-		<p>In OCS 2.0, more features were incorporated:</p>
-		<ul><li>manage conferences that occur more than once (e.g. yearly)</li>
-		<li>an expanded, multiple-round review system</li>
-		<li>e-mail template system</li>
-		<li>localization &amp; translation tools</li>
-		<li>credit card payment for registrations</li>
-		<li>automated &quot;thanks-for-submitting&quot; messages</li>
-		<li>accept login/password for participants</li>
-		<li>Creative Commons licensing of presentations</li>
-		<li>more customizable, scalable and secure code</li></ul>
-		<p>New features incorporated into the latest version OCS 2.1 include:</p>
-		<ul><li>Session Scheduler</li>
-		<li>Reviewer form</li>
-		<li>Multiple languages</li>
-		<li>Help files</li>
-		<li>Documentation</li></ul>]]>	
+        <section title="Основи на системата">
+                <![CDATA[<p><em>OCS система за управляване и публикуване</em>. OCS покрива всички аспекти на управляването и публикуването на конференция онлайн, от установяването на уебсайт на конференция до оперативни задаци като събиране на публикации, рецензиране, редактиране, побликуване, архивиране и индексиране на докладите на конференцията. OCS също помага на хората ангажирани с организирането на конференция, включвайки отразяване на работата на директорите, деректорите на формати, рецензентите и авторите, уведомявайки читателите и регистрантите, и помагайки на кореспонденцията.</p>
+                <p><em>OCS е гъвкава и разширяема</em>. Една инсталация на софтуера OCS може да подпомогне функционирането много конференции и повтарящи се в години издания на всяка конференция. Вяка конференция има свой уникален URL както и собствен външен вид. OCS може да позволи един директор за управлява всички аспекти на една конференция, или OCS може да помогне на интернационален екит с разнообразни отговорности за различни аспекти на адна конференция.</p>
+                <p><em>OCS поддържа принципа за разширяващ се достъп</em>. Тази система е предназначена не само да помага на публикуването, но също и да демонстрира как цената на публикуването може да се намали до точка, в която да достави на читателите "отворен достъп" до съдържанието на публикациите и да бъде осъществим избор. Концепцията за отворен достъп е разработвана в множество статии, произтичащи от този проект, който е свободно достъпен в <a href="https://www.zotero.org/groups/83548/public_knowledge_project?" target="_blank">PKP Publications</a> на сайта на Public Knowledge Project.</p>
+                <p><em>Произход на OCS</em>. До голяма степен базирана на съществуващия прогремен код, използван за <a href="https://pkp.sfu.ca/ojs/" target="_blank">Open Journal Systems</a>, OCS е разработена да посрещне нуждите на организаторите на научни конференции. OCS е инициатива за изследване и развитие на Public Knowledge Project в университета на Британска Колумбия. Нейното продължаващо развитите сега се ноблюдава в партньорство между  проекта Public Knowledge  на университета в Британска кобумбия, Канадския център за изследвания и публикуване, и библиотеката на университет Simon Fraser. За повече информация вижте сайта <a href="http://pkp.sfu.ca/" target="_blank">Public Knowledge Project</a>. Версия 2.1 на OCS, завършена през април 2008 г. е използвана за повече от 100 научни конференции, както се вижда от <a href="https://conference.pkp.sfu.ca/" target="_blank">OCS Conferences</a> на сайта на PKP.</p>
+                <p><em>Възможности на OCS</em>.</p>
+                <p>OCS ще Ви позволи да:</p>
+                <ul><li>създадете уебсайт на конференция</li>
+                <li>съчините и изпратите покана за публикуване</li>
+                <li>приемате резюмета и статии по електронен път</li>
+                <li>предлагащите статии могат да редактират своите работи</li>
+                <li>изпращате доклади и статии в позволяващи търсене формати</li>
+                <li>изпратите, око желаете оригинални набори данни</li>
+                <li>регистрирате участници</li>
+                <li>интегрирате онлайн дискусии след конференциите</li></ul>
+                <p>В OCS 2.0, са добавени още функции:</p>
+                <ul><li>управляване на конференции които се провеждат повече от един път (например ежегодно)</li>
+                <li>чрез разширяване, многоетапна система за рецензиране</li>
+                <li>система от шаблони за имейли</li>
+                <li>локализиране и инструмент за превеждане</li>
+                <li>плащане на такси с кредитна карта</li>
+                <li>автоматично съобщение &quot;Благодериме за предложението&quot;</li>
+                <li>влизане с парола на участниците</li>
+                <li>лиценз Creative Commons за презентациите</li>
+                <li>по-адаптируем, разшияем и сигурен програмен код</li></ul>
+                <p>Във версия OCS 2.1 са включени:</p>
+                <ul><li>сътавител на графици за сесиите</li>
+                <li>формуляри за рецензиране</li>
+                <li>много езици</li>
+                <li>помощти файлове</li>
+                <li>документация</li></ul>]]>
 	</section>
-	<section title="Management Structure">
-<![CDATA[<h5>Editorial Process</h5><p>New submissions typically go through four steps in the editorial process, involving directors, track directors, reviewers, and authors.</p>
-<ol><li><em>Unassigned Queue:</em> Items wait to be assigned to one or more track directors.</li>
-<li><em>Submission Review:</em> Items undergo peer review and are subject to an editorial decision.</li>
-<li><em>Submission Editing:</em> Items undergo layout and copyediting.</li>
-<li><em>Publishing:</em> Items are scheduled for Website posting.</li></ol>
-<h5>Editorial Roles</h5>
-<ul><li><em>Site Administrator:</em> Oversees the entire OCS installation, and sets up any new conference sites hosted on the installation.</li>
-<li><em>Conference Manager:</em> Oversees a conference site on the installation, including all of the user accounts particular to that site. The Conference Manager creates, configures and maintains any scheduled conference instances for their particular conference site. </li>
-<li><em>Registration Manager:</em> Responsible for conference registrations.</li>
-<li><em>Director:</em> Manages the proposal submission, editing, and publication process for a conference. Sets the conference timeline. The Director can also act as a Track Director.</li>
-<li><em>Track Director:</em> Responsible for managing the submissions for their particular track. They see the submissions through the review and editing process, and are responsible for accepting or rejecting them for the conference.</li>
-<li><em>Reviewer:</em> Provides peer-review of the submissions for the conference. Recommmends for or against the inclusion of the submission to the conference. </li>
-<li><em>Author:</em>Submit their proposals to the conference, and participate in the review and editing process.</li>
-<li><em>Reader:</em>Users that can register to read the proceedings, while some conferences do not require registration for that.</li>
+        <section title="Структура на управлението">
+<![CDATA[<h5>Редакторски процес</h5><p>Предлагането на работи типично преминава през четири стъпки на редакторския процес, с участие на: директори, директори на форми, рецензенти и автори.</p>
+<ol><li><em>Неразпределена опашка:</em> Работите чакат да бъдат разпределени на един или повече директори на форми.</li>
+<li><em>Рецензиране:</em> Работите преминават рецензиране и са обект на редакторско обсъждане.</li>
+<li><em>Редактиране:</em> работите преминават през редактиране, коригиране и форматиране.</li>
+<li><em>Пибликуване:</em> работите попадат в графика за показване на сайта.</li></ol>
+<h5>Издателски роли</h5>
+<ul><li><em>Администратор на сайт:</em> Наглежда цялата инсталация на OCS, и стартира всеки сайт за нова конференция, хоствана в тази инсталация.</li>
+<li><em>Мениджър на конференция:</em> наглежда сайта на една конференция в инсталацията, включително всички потребителски профили на сайта. Мениджърът на конференция създава, конфигурира и поддържа всако назначено издание на конференция и неговия отделен сайт. </li>
+<li><em>Мениджър по регистрациите:</em> Отговорен е за регистрациите в конференцията.</li>
+<li><em>Директор:</em> Управлява процеса на приемане на работи, редактиране и публикуване на конференция. Настройва графика на конференцията. Директорът може да действа и като директор на форма.</li>
+<li><em>Директор на форма:</em> Отговорен за управляването на приемането на работи за една форма на конференцията. Те виждат работите в процес на рецензиране и редактиране, и са отговорни за приемането или отхвърлянето им от конференцията.</li>
+<li><em>Рецензенти:</em> Изпълняват редактиране на предложените работи за конференцията. Изказват се за или против включването на работа в конференцията. </li>
+<li><em>Автор:</em> Изпраща свое предложение за конференцията и участва в процеса на рецензиране и редактиране.</li>
+<li><em>Читател:</em> Потребители, които могат да се регистрират за да четат материалите, въпреки че някои конференции може да не изискват регистриране за това.</li>
 </ul>
 <p align="center"><a href="{$baseUrl}/locale/{$locale}/edprocesslarge.png"><img src="{$baseUrl}/locale/{$locale}/edprocess.png" width="480" height="542" border="0" alt="" /></a></p>]]>
 	</section>
-	<section title="Support">
-		<![CDATA[<p>A support forum and bug reporting system for technical issues can be accessed via <a href="http://pkp.sfu.ca/support/forum/" target="_blank">PKP Support</a> and <a href="http://pkp.sfu.ca/bugzilla/" target="_blank">Bugzilla</a>.</p>
-		<p>Users who have questions about interacting with a particular conference site using OCS or that conference's policies are encouraged to direct them to the conference's principal or technical contact, under People on About the Conference page.</p>]]>
+        <section title="Поддръжка">
+                <![CDATA[<p>Форум за оказване на помощ по технически въпроси може да се посети на сайта <a href="https://forum.pkp.sfu.ca/" target="_blank">PKP Community Forum</a> и на <a href="http://pkp.sfu.ca/bugzilla/" target="_blank">Bugzilla</a>.</p>
+                <p>Потребителите, които имат въпроси за определен сайт на конференция, използващ OCS, или за политиките на тази конференция, следва да се насочат към главния или техническия контакт на конференцията, посочени на страница "Относно", под заклавие "Хора" на конференцията.</p>]]>
 	</section>
 </topic>

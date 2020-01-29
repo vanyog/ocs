@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<toc id="conference/toc/000003" locale="en_US" title="Users" parent_topic="conference/topic/000003">
+<toc id="conference/toc/000003" locale="bg_BG" title="Users" parent_topic="conference/topic/000003">
 	<topic id="conference/topic/000025" title="All Enrolled Users" />
       <topic id="conference/topic/000026" title="Enroll a User from This Site in This Conference"/>
 	<topic id="conference/topic/000027" title="Create New User" />

@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<topic id="conference/topic/000020" locale="en_US" title="Stats &amp; Reports" toc="conference/toc/000002"  key="conference.currentConferences.statsReports">
+<topic id="conference/topic/000020" locale="bg_BG" title="Stats &amp; Reports" toc="conference/toc/000002"  key="conference.currentConferences.statsReports">
 	<section>
 		<![CDATA[<p>The Scheduled Conference Statistics page serves two purposes: it provides statistics and reports for the Conference Manager to see and in some cases export, and it allows for the selection of some statistics to be displayed the About the Conference page.</p>]]>
 	</section>

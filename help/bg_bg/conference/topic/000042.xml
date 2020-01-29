@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<topic id="conference/topic/000042" locale="en_US" title="Versions" toc="conference/toc/000009" key="conference.generalManagement.readingTools.versions">
+<topic id="conference/topic/000042" locale="bg_BG" title="Versions" toc="conference/toc/000009" key="conference.generalManagement.readingTools.versions">
 	<section>
 		<![CDATA[
             <p>The Reading Tools Versions page, available from the main Reading Tools page, lists the available Related Items versions and corresponding configuration options (Validate; Metadata; Contexts; Edit; Delete) for each set. New versions can be added to this list by clicking the Create Version link at the bottom of the page, and the original sets can be reset to their default configuration by clicking Restore Versions to Defaults.</p>]]>

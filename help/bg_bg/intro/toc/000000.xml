@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<toc id="intro/toc/000000" locale="en_US" title="Introduction to OCS" parent_topic="intro/topic/000000">
-	<topic id="intro/topic/000001" title="FAQ" />
-	<breadcrumb url="intro/topic/000000" title="Introduction to OCS" />
+<toc id="intro/toc/000000" locale="bg_BG" title="Въведение в OCS" parent_topic="intro/topic/000000">
+        <topic id="intro/topic/000001" title="ЧЗВ" />
+        <breadcrumb url="intro/topic/000000" title="Въведение в OCS" />
 </toc>

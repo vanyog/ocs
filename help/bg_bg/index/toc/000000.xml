@@ -12,12 +12,12 @@
   * $Id$
   -->
 
-<toc id="index/toc/000000" locale="en_US" title="OCS Help" parent_topic="index/topic/000000">
-	<topic id="intro/topic/000000" title="Introduction to OCS" />
-	<topic id="site/topic/000000" title="Site Administration" />
-	<topic id="conference/topic/000000" title="Conference Management" />
-	<topic id="submission/topic/000000" title="Submission Process" />
-	<topic id="editorial/topic/000000" title="Editorial Process" />
-      <topic id="publishing/topic/000000" title="Publishing Process" />
-	<topic id="user/topic/000000" title="Conference Web Site" />
+<toc id="index/toc/000000" locale="bg_BG" title="Помощ за OCS" parent_topic="index/topic/000000">
+        <topic id="intro/topic/000000" title="Въведение в OCS" />
+        <topic id="site/topic/000000" title="Администриране на сайт" />
+        <topic id="conference/topic/000000" title="Управляване на конференция" />
+        <topic id="submission/topic/000000" title="Процес на приемане" />
+        <topic id="editorial/topic/000000" title="Процес на редактиране" />
+      <topic id="publishing/topic/000000" title="Прозес на издаване" />
+        <topic id="user/topic/000000" title="Уебсайт на конференция" />
 </toc>

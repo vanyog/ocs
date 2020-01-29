@@ -12,7 +12,7 @@
   * $Id$
   -->
 
-<topic id="conference/topic/000022" locale="en_US" title="Scheduler" toc="conference/toc/000002"  key="conference.currentConferences.scheduler">
+<topic id="conference/topic/000022" locale="bg_BG" title="Scheduler" toc="conference/toc/000002"  key="conference.currentConferences.scheduler">
 	<section>
 		<![CDATA[<p>With the options available on the Scheduler page, the Conference Manager can create locations (buildings and rooms within buildings) to which presentations can be assigned, and can create special conference events. Once created, the conference schedule will be available from the Conference Information links in the sidebar and on the scheduled conference's home page.</p>]]> 
 	</section>
